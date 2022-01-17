@@ -1,0 +1,141 @@
+.bgimg {
+    background-image: url('../img/img\ 1.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 660px;
+    opacity: 0.9;
+}
+
+.headertset{
+    padding-top: 250px;
+    box-sizing: border-box;
+
+
+}
+
+.headertset h3{
+    font-size: xxx-large;
+
+}
+
+.headertset h4{
+    font-size: medium;
+    font-weight: bold ;
+    font-style:normal;
+}
+
+/*........................................Our Progress......*/
+
+.ourprogress{
+    padding: 100px 0px 60px;
+    height: 700px;
+}
+
+.ourprogress h1 {
+    font-size: 50px;
+    font-weight:bold;
+}
+
+
+
+.rowsetting{
+    margin: 80px 0px!important;
+}
+
+.rowsetting h2{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.rowsetting p{
+    padding: 10px;
+    color: #6c757d!important;
+}
+
+/*Our Vision */
+
+.Ourvision h3{ 
+    font-weight: lighter;
+    color: red;
+
+
+}
+
+.Ourvision h1{
+    font-weight:bold ;
+
+
+}
+
+.Ourvision p{
+    font-weight: lighter;
+    background-color: rgb(243, 236, 236);
+  
+
+}
+
+
+
+
+/* .....................................Our team.....................................................*/
+.ourteam {
+    height: 700px;
+    padding: 100px 0px 60px;
+    width: 100%;
+
+}
+
+.ourteam h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.teamsetting{
+    margin-top: 50px;
+    
+}
+
+
+
+/*...............................footer............................*/
+
+
+.footer {
+    height: 50px;
+}
+
+.footer h6{
+    line height: 50px;
+    margin-top: 90px;
+  
+
+
+}
+
+
+
+/*///////////////////////////////////////////Responsive*/
+@media(min-width:92px){
+
+}
+    
+}
+
+@media(min-width: 768px )and (max-width: 991px)
+}
+
+@media (min-width: 575px) and (max width:767px){
+
+}
+
+@media(min-width; 480px) and (max-width:574px){
+
+}
+
+@media(max-width:479px){
+    
+
+
+}
